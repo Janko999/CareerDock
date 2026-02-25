@@ -18,7 +18,7 @@ const figtree = Figtree({
 });
 
 export const metadata: Metadata = {
-  title: "CareerDock — Find jobs you actually want",
+  title: "Jobly — Find jobs you actually want",
   description:
     "A friendly job marketplace for candidates and companies. Search, apply, and hire with confidence.",
   icons: {
